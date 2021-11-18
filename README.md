@@ -1,4 +1,3 @@
-<img align="center" alt="img" height="250" width="1400" src="https://github.com/leokatsuki/leokatsuki/blob/main/header.png">
 
 ##
 
