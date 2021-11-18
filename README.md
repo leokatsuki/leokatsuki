@@ -1,4 +1,4 @@
-  <img align="center" height="300"  src="https://github.com/leokatsuki/leokatsuki/blob/main/header.png"/>
+  <img align="center" height="180em" width="1400" src="https://github.com/leokatsuki/leokatsuki/blob/main/header.png"/>
 ##
 
 <div align="center">
