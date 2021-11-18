@@ -1,5 +1,5 @@
 ![Bem vindo ao meu perfil] (https://github.com/leokatsuki/leokatsuki/blob/main/header.png)
-<img align="center" alt="img" height="1400" width="425" src="https://github.com/leokatsuki/leokatsuki/blob/main/header.png">
+<img align="center" alt="img" height="425" width="1400" src="https://github.com/leokatsuki/leokatsuki/blob/main/header.png">
 
 ##
 
