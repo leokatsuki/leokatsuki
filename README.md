@@ -1,12 +1,5 @@
 ### Olá 👋 Meu nome é leonardo Katsuki
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: leok-12@hotmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <div align="center">
   <a href="https://github.com/leokatsuki">
@@ -31,7 +24,7 @@
      <a href="https://steamcommunity.com/id/leeok12/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a> 
       <a href="https://www.linkedin.com/in/leonardo-hiramatsu-05a722143" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ![Snake animation]
+  ![Snake animation](https://github.com/leokatsuki/leokatsuki/blob/output/github-contribution-grid-snake.svg)
     
   </div>
   
